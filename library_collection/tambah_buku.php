@@ -45,25 +45,25 @@
                     <div class="form-group row">
                         <label for="judul" class="col-sm-2 col-form-label">Judul Buku</label>
                         <div class="col-sm-10">
-                            <input type="text" name="judul" class="form-control" placeholder="Judul Buku">
+                            <input type="text" name="judul" class="form-control" placeholder="Judul Buku" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="pengarang" class="col-sm-2 col-form-label">Pengarang</label>
                         <div class="col-sm-10">
-                            <input type="text" name="pengarang" class="form-control" placeholder="Pengarang">
+                            <input type="text" name="pengarang" class="form-control" placeholder="Pengarang" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="tahun_terbit" class="col-sm-2 col-form-label">Tahun Terbit</label>
                         <div class="col-sm-10">
-                            <input type="number" name="tahun_terbit" class="form-control" placeholder="Tahun Terbit">
+                            <input type="number" name="tahun_terbit" class="form-control" placeholder="Tahun Terbit" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="kategori" class="col-sm-2 col-form-label">Kategori</label>
                         <div class="col-sm-10">
-                            <input type="text" name="kategori" class="form-control" placeholder="Kategori">
+                            <input type="text" name="kategori" class="form-control" placeholder="Kategori" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
