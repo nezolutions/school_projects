@@ -19,8 +19,7 @@ Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
 
 ## sciencetech_guestbook
 
-Proyek Buku tamu sederhana untuk acara Saintek Prestasi Prima tahun 2024.
-
+Proyek Buku tamu sederhana untuk acara Saintek Prestasi Prima tahun 2024.  
 Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 
 #### Detail Proyek:
