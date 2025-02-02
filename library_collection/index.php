@@ -87,7 +87,7 @@ $hasil = mysqli_query($con, $query);
                                 <td><?php echo $data['kategori']; ?></td>
                                 <td>
                                     <a href="ubah_buku.php?id=<?php echo $data['id_buku'] ?>" class="btn btn-warning btn-sm">
-                                        <i class="fas fa-edit"></i> Edit
+                                        <i class="fas fa-edit"></i> Ubah
                                     </a>
                                     <a href="hapus_buku.php?id=<?php echo $data['id_buku'] ?>" class="btn btn-danger btn-sm" onclick="return confirm('Hapus buku ini?')">
                                         <i class="fas fa-trash-alt"></i> Hapus
