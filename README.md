@@ -1,20 +1,38 @@
 # PHP Native Projects
 
+
 ## library_collections
 
 Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
 
-#### Detail Proyek:
+### Detail Proyek:
 - **Nama**: Koleksi Buku Perpustakaan
 - **Sintaks**: PHP (Native)
 - **Database**: MySQL
 - **Dibuat pada**: 9 Okt 2024
 - **Selesai pada**: 10 Okt 2024
 
-#### Panduan Penggunaan Proyek:
+### Panduan Penggunaan Proyek:
 - **Tambah Buku**: Pengguna dapat menambahkan informasi buku baru.
-- **Aksi Ubah**: Pengguna dapat mengubah isi detail buku.
-- **Aksi Hapus**: Pengguna dapat menghapus list buku.
+- **Ubah Buku**: Pengguna dapat mengubah detail buku yang ada.
+- **Hapus Buku**: Pengguna dapat menghapus buku dari daftar.
+
+
+## multi_user
+
+Proyek sesi pengguna dengan login multi user.
+
+### Detail Proyek:
+- **Nama**: Multi User
+- **Sintaks**: PHP (Native)
+- **Database**: MySQL
+- **Dibuat pada**: 15 Okt 2024
+- **Selesai pada**: 16 Okt 2024
+
+### Panduan Penggunaan Proyek:
+- **Sesi Admin**: Admin memiliki hak penuh untuk mengelola pengguna, data, dan pengaturan sistem (Halaman Kosong).
+- **Sesi Pegawai**: Pegawai dapat mengelola data yang terkait dengan tugas dan tanggung jawab mereka tetapi tidak memiliki akses ke pengaturan sistem utama (Halaman Kosong).
+- **Sesi Pengurus**: Pengurus dapat menambah dan memperbarui data, namun tidak memiliki hak untuk mengelola pengguna atau pengaturan sistem (Halaman Kosong).
 
 
 ## sciencetech_guestbook
