@@ -67,25 +67,25 @@ if ($hasil && mysqli_num_rows($hasil) > 0) {
                     <div class="form-group row">
                         <label for="judul" class="col-sm-2 col-form-label">Judul Buku</label>
                         <div class="col-sm-10">
-                            <input type="text" name="judul" id="judul" class="form-control" value="<?php echo $data['judul_buku']; ?>">
+                            <input type="text" name="judul" id="judul" class="form-control" value="<?php echo $data['judul_buku']; ?>" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="pengarang" class="col-sm-2 col-form-label">Pengarang</label>
                         <div class="col-sm-10">
-                            <input type="text" name="pengarang" id="pengarang" class="form-control" value="<?php echo $data['pengarang']; ?>">
+                            <input type="text" name="pengarang" id="pengarang" class="form-control" value="<?php echo $data['pengarang']; ?>" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="tahun_terbit" class="col-sm-2 col-form-label">Tahun Terbit</label>
                         <div class="col-sm-10">
-                            <input type="number" name="tahun_terbit" id="tahun_terbit" class="form-control" value="<?php echo $data['tahun_terbit']; ?>">
+                            <input type="number" name="tahun_terbit" id="tahun_terbit" class="form-control" value="<?php echo $data['tahun_terbit']; ?>" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
                         <label for="kategori" class="col-sm-2 col-form-label">Kategori</label>
                         <div class="col-sm-10">
-                            <input type="text" name="kategori" id="kategori" class="form-control" value="<?php echo $data['kategori']; ?>">
+                            <input type="text" name="kategori" id="kategori" class="form-control" value="<?php echo $data['kategori']; ?>" autocomplete="off" required>
                         </div>
                     </div>
                     <div class="form-group row">
