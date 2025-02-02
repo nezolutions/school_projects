@@ -1,8 +1,8 @@
 # PHP Native Projects
 
-## sciencetech_guestbook
+## sciencetech_guestbook (DB: MySQL)
 
-Proyek Buku Tamu Sederhana untuk Acara Saintek 2024. Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta acara.
+Proyek Buku tamu sederhana untuk acara Saintek 2024. Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 
 ### Formulir yang Disediakan:
 - **Formulir SISWA**: Diisi oleh siswa/i dari Sekolah Prestasi Prima.
