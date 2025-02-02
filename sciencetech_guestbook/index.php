@@ -431,7 +431,7 @@ p.status {
     </div>
     <div class="welcome" id="welcome">
         <div class="welcome-container">
-            <img class="logo logo-smkpp" src="assets/icon_smkpp.png" draggable="false" />
+            <img class="logo logo-smkpp" src="assets/icon_smk_pp.png" draggable="false" />
             <img class="logo logo-saintek" src="assets/icon_saintek.png" draggable="false">
             <img class="logo logo-rpl" src="assets/icon_rpl.png" draggable="false" />
             <br>
