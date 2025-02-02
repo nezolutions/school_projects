@@ -24,7 +24,7 @@ try {
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="10">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saintek Presma PPLG 2024</title>
+    <title>Saintek Presma 2024 - PPLG</title>
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
 </head>
 <style>
