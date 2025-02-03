@@ -30,9 +30,9 @@ Proyek sesi pengguna dengan login multi user.
 - **Selesai pada**: 16 Okt 2024
 
 ### Panduan Penggunaan Proyek:
-- **Sesi Admin**: Admin memiliki hak penuh untuk mengelola pengguna, data, dan pengaturan sistem (Halaman Kosong).
-- **Sesi Pegawai**: Pegawai dapat mengelola data yang terkait dengan tugas dan tanggung jawab mereka tetapi tidak memiliki akses ke pengaturan sistem utama (Halaman Kosong).
-- **Sesi Pengurus**: Pengurus dapat menambah dan memperbarui data, namun tidak memiliki hak untuk mengelola pengguna atau pengaturan sistem (Halaman Kosong).
+- **Sesi Admin**: Login sebagai Admin dan masuk ke halaman Admin.
+- **Sesi Pegawai**: Login sebagai Pegawai dan masuk ke halaman Pegawai.
+- **Sesi Pengurus**: Login sebagai Pengurus dan masuk ke halaman Pengurus.
 
 
 ## sciencetech_guestbook
