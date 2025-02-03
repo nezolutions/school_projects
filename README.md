@@ -18,23 +18,6 @@ Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
 - **Hapus Buku**: Pengguna dapat menghapus buku dari daftar.
 
 
-## multi_user
-
-Proyek sesi pengguna dengan login multi user.
-
-### Detail Proyek:
-- **Nama**: Multi User
-- **Sintaks**: PHP (Native)
-- **Database**: MySQL
-- **Dibuat pada**: 15 Okt 2024
-- **Selesai pada**: 16 Okt 2024
-
-### Panduan Penggunaan Proyek:
-- **Sesi Admin**: Login sebagai Admin dan masuk ke halaman Admin.
-- **Sesi Pegawai**: Login sebagai Pegawai dan masuk ke halaman Pegawai.
-- **Sesi Pengurus**: Login sebagai Pengurus dan masuk ke halaman Pengurus.
-
-
 ## sciencetech_guestbook
 
 Proyek Buku tamu sederhana untuk acara Saintek Prestasi Prima tahun 2024.  
