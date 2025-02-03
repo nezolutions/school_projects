@@ -5,14 +5,14 @@
 
 Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
 
-### Detail Proyek:
+#### Detail Proyek:
 - **Nama**: Koleksi Buku Perpustakaan
 - **Sintaks**: PHP (Native)
 - **Database**: MySQL
 - **Dibuat pada**: 9 Okt 2024
 - **Selesai pada**: 10 Okt 2024
 
-### Panduan Penggunaan Proyek:
+#### Panduan Penggunaan Proyek:
 - **Tambah Buku**: Pengguna dapat menambahkan informasi buku baru.
 - **Ubah Buku**: Pengguna dapat mengubah detail buku yang ada.
 - **Hapus Buku**: Pengguna dapat menghapus buku dari daftar.
