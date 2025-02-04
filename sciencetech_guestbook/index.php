@@ -5,422 +5,422 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saintek Presma PPLG 2024</title>
+    <title>Saintek Presma 2024 - PPLG</title>
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+        #loading {
+            display: block;
+        }
+        #welcome {
+            display: none;
+        }
+        #form, #form2, #form3, #form4 {
+            display: none;
+        }
+
+        #kesan-pesan1, #kesan-pesan2, #kesan-pesan3 {
+            display: none;
+        }
+
+        select[name='jurusan'], select[name='nomor'] {
+            display: inline-block;
+        }
+
+        *, html {
+            padding: 0;
+            margin: 0;
+            zoom: 1.05;
+            overflow: hidden;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        ::selection {
+            background-color: rgb(200, 0, 0);
+            color: yellow;
+        }
+
+        body {
+            background: linear-gradient(to top, rgb(0, 40, 60), rgb(0, 80, 130)) no-repeat;
+            color: white;
+            font-family: 'poppins', sans-serif;
+            user-select: none;
+            overflow: hidden;
+        }
+
+        h1, p {
+            user-select: text;
+        }
+
+        h2 {
+            user-select: text;
+            margin-bottom: 10px;
+        }
+
+        div.loading {
+            background: rgba(0, 0, 0, 0.5);
+            width: 100%;
+            height: 70em;
+            overflow: hidden;
+            text-align: center;
+            user-select: none;
+        }
+
+        div.loading-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        span.dots {
+            display: inline-block;
+            vertical-align: middle;
+            width: .6em;
+            height: .6em;
+            margin: .19em;
+            background: #c9c619;
+            border-radius: .6em;
+            filter: drop-shadow(0 0 5px #222);
+            animation: loading 0.5s infinite alternate;
+        }
+
+        span.dots:nth-of-type(2) {
+            background: #ffffff;
+            animation-delay: 0.2s;
+        }
+
+        span.dots:nth-of-type(3) {
+            background: #6598f7;
+            animation-delay: 0.4s;
+        }
+
+        @keyframes loading {
+            0% {
+            opacity: 0;
+            transform: scale(0);
+            }
+
+            100% {
+            opacity: 1;
+            transform: scale(1.2);
+            }
+        }
+
+        div.loading img.logo {
+            max-width: 100px;
+            width: 80%;
+            height: auto;
+            filter: drop-shadow(0 0 5px #222);
+        }
+
+        div.welcome {
+            width: 100vw;
+            height: 70em;
+            overflow: hidden;
+            text-align: center;
+            animation: welcome 1s linear alternate;
+            transition: 1s;
+        }
+
+        div.welcome-container {
+            max-width: 700px;
+            width: 90%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        div.welcome-container h1 {
+            font-size: normal;
+            transition: 0.5s;
+            line-height: 1.2;
+            cursor: default;
+        }
+
+        div.welcome-container p {
+            margin-bottom: 5px;
+            font-size: small;
+            transition: 0.5s;
+            cursor: default;
+        }
+
+        div.welcome-container h1:hover, div.welcome-container p:hover {
+            transform: scale(1.05);
+        }
+
+        @keyframes welcome {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        div.welcome img.logo {
+            margin-bottom: 5px;
+            max-width: 50px;
+            width: 90%;
+            height: auto;
+            transition: 0.5s;
+        }
+
+        img.logo-saintek {
+            padding-bottom: 2px;
+        }
+
+        img.logo-smkpp {
+            padding: 4px 4px 6px 4px;
+            margin-bottom: 3px;
+        }
+
+        img.logo-rpl:hover, img.logo-saintek:hover, img.logo-smkpp:hover {
+            filter: brightness(0.8);
+        }
+
+        button.btn, input.btn-submit1, input.btn-submit2, input.btn-submit3  {
+            outline: none;
+            border: none;
+            border-radius: 20px;
+            background-color: #c9c619;
+            color: white;
+            font-weight: bold;
+            width: 100px;
+            height: 40px;
+            margin-top: 10px;
+            transition: 0.5s;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            text-transform: uppercase;
+            cursor: pointer;
+            font-family: 'poppins', sans-serif;
+        }
+
+        i.fas {
+            font-size: 24px;
+            vertical-align: middle;
+        }
+
+        button.btn:hover, input.btn-submit1:hover, input.btn-submit2:hover, input.btn-submit3:hover {
+            background-color: #aca91c;
+            transform: scale(1.05);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        button.btn:active, input.btn-submit1:active, input.btn-submit2:active, input.btn-submit3:active {
+            transform: scale(0.95);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        button.btn:disabled, input.btn-submit1:disabled, input.btn-submit2:disabled, input.btn-submit3:disabled {
+            filter: brightness(0.5);
+        }
+
+        div.form, div.form2, div.form3, div.form4 {
+            width: 100vw;
+            height: 70em;
+            overflow: hidden;
+            text-align: center;
+            animation: form 1s linear alternate;
+        }
+
+        div.kesan-pesan1, div.kesan-pesan2, div.kesan-pesan3 {
+            width: 100vw;
+            height: 70em;
+            overflow: hidden;
+            text-align: center;
+            animation: form 1s linear alternate;
+        }
+
+        div.form-container {
+            max-width: 600px;
+            width: 90%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        @keyframes form {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        p.radio {
+            display: inline-block;
+            justify-content: center;
+            max-width: 150px;
+            width: 100%;
+            height: 150px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            border-radius: 5px;
+            margin: 5px;
+            padding: 10px;
+            cursor: pointer;
+            background-color: #477cdf;
+            color: white;
+            transition: 0.5s;
+            user-select: none;
+        }
+
+        p.radio:hover {
+            background-color: #3862b4;
+        }
+
+        p.radio:active {
+            transform: scale(0.9);
+        }
+
+        p.radio span {
+            position: relative;
+            top: 35%;
+        }
+
+        input[type='radio'] {
+            display: none;
+        }
+
+        input[type='radio']:checked + p.radio {
+            background-color: white;
+            color: #477cdf;
+        }
+
+        div.form2 .form-container h2, div.form3 .form-container h2, div.form4 .form-container h2,
+        div.kesan-pesan1 .form-container h2, div.kesan-pesan2 .form-container h2, div.kesan-pesan3 .form-container h2 {
+            line-height: 1.3;
+        }
+
+        span.sub {
+            font-size: small;
+        }
+
+        input[type='text'] {
+            max-width: 420px;
+            font-family: 'poppins', sans-serif;
+            width: 90%;
+            height: 40px;
+            border: none;
+            border-radius: 50px;
+            margin-top: 10px;
+            padding: 10px;
+        }
+
+        input[name='username-siswa'], input[name='username-guru'], input[name='username-pengunjung'], input[name='jabatan'], input[name='asal-instansi'] {
+            text-transform: uppercase;
+        }
+
+        input[name='username-siswa']::placeholder, input[name='username-guru']::placeholder, input[name='username-pengunjung']::placeholder, input[name='jabatan']::placeholder, input[name='asal-instansi']::placeholder {
+            text-transform: none;
+        }
+
+        input[type='text']:focus {
+            outline: 1px solid #6598f7;
+            box-shadow: 0 0 8px #6598f7;
+        }
+
+        div.select-option {
+            background-color: white;
+            max-width: 420px;
+            width: 90%;
+            margin: auto;
+            margin-top: 10px;
+            height: 40px;
+            border-radius: 20px;
+            user-select: none;
+        }
+
+        div.select-option:hover {
+            outline: 1px solid #6598f7;
+            box-shadow: 0 0 8px #6598f7;
+        }
+
+        select.chooser {
+            background-color: red;
+
+            display: inline-flex;
+            font-family: 'poppins', sans-serif;
+            width: 30%;
+            padding: 9px;
+            border: none;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        select.chooser:focus {
+            outline: none;
+        }
+
+        button.btn-back1, button.btn-back2, button.btn-back3, button.btn-back4, button.btn-back5, button.btn-back6, button.btn-home {
+            background-color: #fb652e;
+        }
+
+        button.btn-back1:hover, button.btn-back2:hover, button.btn-back3:hover, button.btn-back4:hover, button.btn-back5:hover, button.btn-back6:hover, button.btn-home:hover {
+            background-color: #c94a1c;
+        }
+
+        div.holder-button {
+            user-select: none;
+        }
+
+        textarea.text-pesan {
+            font-family: 'poppins', sans-serif;
+            margin-top: 5px;
+            padding: 5px;
+            resize: vertical;
+            width: 90%;
+            max-width: 400px;
+            height: 150px;
+            min-height: 80px;
+            max-height: 400px;
+            border-radius: 5px;
+        }
+
+        textarea.text-pesan:focus {
+            outline: 1px solid #6598f7;
+            box-shadow: 0 0 8px #6598f7;
+        }
+
+        p.status {
+            font-family: monospace;
+            padding: 5px;
+            position: absolute;
+            display: none;
+            top: 0;
+            color: #333;
+            text-align: center;
+            width: 100%;
+        }
+
+        @media screen and (max-width: 720px) {
+            *, html {
+                zoom: 1;
+            }
+        }
+
+        @media screen and (max-width: 435px) {
+            *, html {
+                zoom: 0.98;
+            }
+
+            div.select-option {
+                max-width: 400px;
+            }
+        }
+    </style>
 </head>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
-
-#loading {
-    display: block;
-}
-#welcome {
-    display: none;
-}
-#form, #form2, #form3, #form4 {
-    display: none;
-}
-
-#kesan-pesan1, #kesan-pesan2, #kesan-pesan3 {
-    display: none;
-}
-
-select[name='jurusan'], select[name='nomor'] {
-    display: inline-block;
-}
-
-*, html {
-    padding: 0;
-    margin: 0;
-    zoom: 1.05;
-    overflow: hidden;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
-
-::selection {
-    background-color: rgb(200, 0, 0);
-    color: yellow;
-}
-
-body {
-    background: linear-gradient(to top, rgb(0, 40, 60), rgb(0, 80, 130)) no-repeat;
-    color: white;
-    font-family: 'poppins', sans-serif;
-    user-select: none;
-    overflow: hidden;
-}
-
-h1, p {
-    user-select: text;
-}
-
-h2 {
-    user-select: text;
-    margin-bottom: 10px;
-}
-
-div.loading {
-    background: rgba(0, 0, 0, 0.5);
-    width: 100%;
-    height: 70em;
-    overflow: hidden;
-    text-align: center;
-    user-select: none;
-}
-
-div.loading-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-span.dots {
-    display: inline-block;
-    vertical-align: middle;
-    width: .6em;
-    height: .6em;
-    margin: .19em;
-    background: #c9c619;
-    border-radius: .6em;
-    filter: drop-shadow(0 0 5px #222);
-    animation: loading 0.5s infinite alternate;
-}
-
-span.dots:nth-of-type(2) {
-    background: #ffffff;
-    animation-delay: 0.2s;
-}
-
-span.dots:nth-of-type(3) {
-    background: #6598f7;
-    animation-delay: 0.4s;
-}
-
-@keyframes loading {
-    0% {
-      opacity: 0;
-      transform: scale(0);
-    }
-
-    100% {
-      opacity: 1;
-      transform: scale(1.2);
-    }
-}
-
-div.loading img.logo {
-    max-width: 100px;
-    width: 80%;
-    height: auto;
-    filter: drop-shadow(0 0 5px #222);
-}
-
-div.welcome {
-    width: 100vw;
-    height: 70em;
-    overflow: hidden;
-    text-align: center;
-    animation: welcome 1s linear alternate;
-    transition: 1s;
-}
-
-div.welcome-container {
-    max-width: 700px;
-    width: 90%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-div.welcome-container h1 {
-    font-size: normal;
-    transition: 0.5s;
-    line-height: 1.2;
-}
-
-div.welcome-container p {
-    margin-bottom: 5px;
-    font-size: small;
-    transition: 0.5s;
-}
-
-div.welcome-container h1:hover, div.welcome-container p:hover {
-    transform: scale(1.05);
-}
-
-@keyframes welcome {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-div.welcome img.logo {
-    margin-bottom: 5px;
-    max-width: 50px;
-    width: 90%;
-    height: auto;
-    transition: 0.5s;
-}
-
-img.logo-saintek {
-    padding-bottom: 2px;
-}
-
-img.logo-smkpp {
-    padding: 4px 4px 6px 4px;
-    margin-bottom: 3px;
-}
-
-img.logo-rpl:hover, img.logo-saintek:hover, img.logo-smkpp:hover {
-    filter: brightness(0.8);
-}
-
-button.btn, input.btn-submit1, input.btn-submit2, input.btn-submit3  {
-    outline: none;
-    border: none;
-    border-radius: 20px;
-    background-color: #c9c619;
-    color: white;
-    font-weight: bold;
-    width: 100px;
-    height: 40px;
-    margin-top: 10px;
-    transition: 0.5s;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    text-transform: uppercase;
-    cursor: pointer;
-    font-family: 'poppins', sans-serif;
-}
-
-i.fas {
-    font-size: 24px;
-    vertical-align: middle;
-}
-
-button.btn:hover, input.btn-submit1:hover, input.btn-submit2:hover, input.btn-submit3:hover {
-    background-color: #aca91c;
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
-}
-
-button.btn:active, input.btn-submit1:active, input.btn-submit2:active, input.btn-submit3:active {
-    transform: scale(0.95);
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-}
-
-button.btn:disabled, input.btn-submit1:disabled, input.btn-submit2:disabled, input.btn-submit3:disabled {
-    filter: brightness(0.5);
-}
-
-div.form, div.form2, div.form3, div.form4 {
-    width: 100vw;
-    height: 70em;
-    overflow: hidden;
-    text-align: center;
-    animation: form 1s linear alternate;
-}
-
-div.kesan-pesan1, div.kesan-pesan2, div.kesan-pesan3 {
-    width: 100vw;
-    height: 70em;
-    overflow: hidden;
-    text-align: center;
-    animation: form 1s linear alternate;
-}
-
-div.form-container {
-    max-width: 600px;
-    width: 90%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-@keyframes form {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-p.radio {
-    display: inline-block;
-    justify-content: center;
-    max-width: 150px;
-    width: 100%;
-    height: 150px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    border-radius: 5px;
-    margin: 5px;
-    padding: 10px;
-    cursor: pointer;
-    background-color: #477cdf;
-    color: white;
-    transition: 0.5s;
-    user-select: none;
-}
-
-p.radio:hover {
-    background-color: #3862b4;
-}
-
-p.radio:active {
-    transform: scale(0.9);
-}
-
-p.radio span {
-    position: relative;
-    top: 35%;
-}
-
-input[type='radio'] {
-    display: none;
-}
-
-input[type='radio']:checked + p.radio {
-    background-color: white;
-    color: #477cdf;
-}
-
-div.form2 .form-container h2, div.form3 .form-container h2, div.form4 .form-container h2,
-div.kesan-pesan1 .form-container h2, div.kesan-pesan2 .form-container h2, div.kesan-pesan3 .form-container h2 {
-    line-height: 1.3;
-}
-
-span.sub {
-    font-size: small;
-}
-
-input[type='text'] {
-    max-width: 420px;
-    font-family: 'poppins', sans-serif;
-    width: 90%;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    margin-top: 10px;
-    padding: 10px;
-}
-
-input[name='username-siswa'], input[name='username-guru'], input[name='username-pengunjung'], input[name='jabatan'], input[name='asal-instansi'] {
-    text-transform: uppercase;
-}
-
-input[name='username-siswa']::placeholder, input[name='username-guru']::placeholder, input[name='username-pengunjung']::placeholder, input[name='jabatan']::placeholder, input[name='asal-instansi']::placeholder {
-    text-transform: none;
-}
-
-input[type='text']:focus {
-    outline: 1px solid #6598f7;
-    box-shadow: 0 0 8px #6598f7;
-}
-
-div.select-option {
-    background-color: white;
-    max-width: 420px;
-    width: 90%;
-    margin: auto;
-    margin-top: 10px;
-    height: 40px;
-    border-radius: 20px;
-    user-select: none;
-}
-
-div.select-option:hover {
-    outline: 1px solid #6598f7;
-    box-shadow: 0 0 8px #6598f7;
-}
-
-select.chooser {
-    background: none;
-    font-family: 'poppins', sans-serif;
-    width: 94px;
-    padding: 9px;
-    border: none;
-    cursor: pointer;
-    user-select: none;
-}
-
-select.chooser:focus {
-    outline: none;
-}
-
-button.btn-back1, button.btn-back2, button.btn-back3, button.btn-back4, button.btn-back5, button.btn-back6, button.btn-home {
-    background-color: #fb652e;
-}
-
-button.btn-back1:hover, button.btn-back2:hover, button.btn-back3:hover, button.btn-back4:hover, button.btn-back5:hover, button.btn-back6:hover, button.btn-home:hover {
-    background-color: #c94a1c;
-}
-
-div.holder-button {
-    user-select: none;
-}
-
-textarea.text-pesan {
-    font-family: 'poppins', sans-serif;
-    margin-top: 5px;
-    padding: 5px;
-    resize: vertical;
-    width: 400px;
-    height: 150px;
-    min-height: 80px;
-    max-height: 400px;
-    border-radius: 5px;
-}
-
-textarea.text-pesan:focus {
-    outline: 1px solid #6598f7;
-    box-shadow: 0 0 8px #6598f7;
-}
-
-p.status {
-    padding: 5px;
-    position: absolute;
-    display: none;
-    top: 0;
-    color: #333;
-    text-align: center;
-    width: 100%;
-}
-
-@media screen and (max-width: 720px) {
-    *, html {
-        zoom: 1;
-    }
-}
-
-@media screen and (max-width: 435px) {
-    *, html {
-        zoom: 0.98;
-    }
-
-    div.select-option {
-        max-width: 400px;
-    }
-}
-
-@media screen and (max-width: 316px) {
-    *, html {
-        filter: opacity(0);
-    }
-}
-</style>
 <body>
-    <p id="confirm-status" class="status">Terkirim</p>
+    <p id="confirm-status" class="status">Terimakasih! data telah terkirim.</p>
     <div class="loading" id="loading">
         <div class="loading-container">
             <img class="logo" src="assets/icon_rpl.png" draggable="false" /><br>
