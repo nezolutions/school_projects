@@ -3,7 +3,7 @@
 
 ## library_collections
 
-Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
+Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.  
 Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 
 #### Detail Proyek:
