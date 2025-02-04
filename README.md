@@ -13,7 +13,7 @@ Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 - **Dibuat pada**: 9 Okt 2024
 - **Selesai pada**: 10 Okt 2024
 
-#### Panduan Penggunaan Proyek:
+#### Panduan Proyek:
 - **Tambah Buku**: Pengguna dapat menambahkan data buku.
 - **Ubah Buku**: Pengguna dapat mengubah detail data buku.
 - **Hapus Buku**: Pengguna dapat menghapus data buku.
@@ -31,7 +31,7 @@ Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 - **Dibuat pada**: 12 Okt 2024
 - **Selesai pada**: 12 Nov 2024
 
-#### Panduan Penggunaan Proyek:
+#### Panduan Proyek:
 - **Form SISWA**: Diisi oleh siswa/i dari Sekolah Prestasi Prima.
 - **Form GURU**: Diisi oleh guru dan staf dari Sekolah Prestasi Prima.
 - **Form PENGUNJUNG**: Diisi oleh pengunjung yang berasal dari luar Sekolah Prestasi Prima.
