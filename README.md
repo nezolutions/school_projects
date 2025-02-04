@@ -4,6 +4,7 @@
 ## library_collections
 
 Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
+Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 
 #### Detail Proyek:
 - **Nama**: Koleksi Buku Perpustakaan
@@ -13,14 +14,14 @@ Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.
 - **Selesai pada**: 10 Okt 2024
 
 #### Panduan Penggunaan Proyek:
-- **Tambah Buku**: Pengguna dapat menambahkan informasi buku baru.
-- **Ubah Buku**: Pengguna dapat mengubah detail buku yang ada.
-- **Hapus Buku**: Pengguna dapat menghapus buku dari daftar.
+- **Tambah Buku**: Pengguna dapat menambahkan data buku.
+- **Ubah Buku**: Pengguna dapat mengubah detail data buku.
+- **Hapus Buku**: Pengguna dapat menghapus data buku.
 
 
 ## sciencetech_guestbook
 
-Proyek Buku tamu sederhana untuk acara Saintek Prestasi Prima tahun 2024.  
+Proyek Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.  
 Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 
 #### Detail Proyek:
