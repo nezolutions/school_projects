@@ -1,5 +1,8 @@
 # School Projects
 
+Semua proyek koding buatan saya yang bersumber dari sekolah saya akan di upload ke dalam repo ini.
+Produk yang dimasukkan ke dalam sini juga terdapat aplikasi dinamis yang mendukung database.
+
 
 ## dream_movie
 
