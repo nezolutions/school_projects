@@ -1,6 +1,25 @@
   # School Projects
 
 
+## dream_movie
+
+Proyek CRUD sederhana untuk memasukkan list film favorit ke dalam database.  
+Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus list film.
+
+#### Detail Proyek:
+- **Nama**: Dream Movie
+- **Sintaks**: Java (Android Studio)
+- **Database**: SQLite
+- **Dibuat pada**: 21 Nov 2024
+- **Selesai pada**: 30 Des 2024
+
+#### Panduan Proyek:
+- **ADD**: Untuk penambahaan list film baru.
+- **UPD**: Untuk pengeditan list film terpilih.
+- **DEL**: Untuk pengapusan list film terpilih.
+- **CLR**: Untuk pembersihan keseluruhan list film.
+
+
 ## library_collections
 
 Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.  
