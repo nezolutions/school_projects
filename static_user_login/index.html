@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!-- nama file: style.css -->
+    <title>Static User Login</title>
+</head>
+<body>
+    <form method="POST" onsubmit="return submitForm()">
+        <h1 style="color: blueviolet;">Masuk</h1>
+        <input type="text" id="username" placeholder="Nama Pengguna" maxlength="32" required><br>
+        <input type="password" id="password" placeholder="Kata Sandi" maxlength="32" required><br>
+        <p>
+            <input type="reset" value="Ulang">
+            <input type="submit" value="Kirim">
+        </p>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
