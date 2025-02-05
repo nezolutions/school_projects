@@ -92,4 +92,4 @@ Dapat digunakan untuk memproteksi halaman html yang diinginkan.
 - **Selesai pada**: 21 Nov 2024
 
 #### Panduan Proyek:
-- Cukup mengganti 'username' dan 'password' sesuai keinginan maka dapat login dan masuk ke dalam halaman dashboard.
+- Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
