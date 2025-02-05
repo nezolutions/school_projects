@@ -38,15 +38,15 @@ Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 - **Selesai pada**: 10 Okt 2024
 
 #### Panduan Proyek:
-- **Tambah Buku**: Pengguna dapat menambahkan data buku.
-- **Ubah Buku**: Pengguna dapat mengubah detail data buku.
-- **Hapus Buku**: Pengguna dapat menghapus data buku.
+- **Tambah Buku**: Penambahkan data buku baru.
+- **Tombol Ubah**: Pengubahan detail data buku.
+- **Tombol Hapus**: Penghapusan data buku.
 
 
 ## multi_user_login
 
 Proyek sesi login sederhana untuk level admin, pegawai, dan pengurus.  
-Berfungsi agar user dapat login sesuai level/kategori dalam website.
+Pengguna dapat melakukan login sesuai level/role pada web.
 
 #### Detail Proyek:
 - **Nama**: Login Multi User Level
@@ -77,3 +77,19 @@ Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 - **Form SISWA**: Diisi oleh siswa/i dari Sekolah Prestasi Prima.
 - **Form GURU**: Diisi oleh guru dan staf dari Sekolah Prestasi Prima.
 - **Form PENGUNJUNG**: Diisi oleh pengunjung yang berasal dari luar Sekolah Prestasi Prima.
+
+
+## static_user_login
+
+Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.  
+Dapat digunakan untuk memproteksi halaman html yang diinginkan.
+
+#### Detail Proyek:
+- **Nama**: Static User Login
+- **Sintaks**: HTML, CSS, JavaScript
+- **Database**: -
+- **Dibuat pada**: 20 Nov 2024
+- **Selesai pada**: 21 Nov 2024
+
+#### Panduan Proyek:
+- Cukup mengganti 'username' dan 'password' sesuai keinginan maka dapat login dan masuk ke dalam halaman dashboard.
