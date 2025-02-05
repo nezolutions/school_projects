@@ -1,4 +1,4 @@
-  # School Projects
+# School Projects
 
 
 ## dream_movie
