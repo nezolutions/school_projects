@@ -1,4 +1,4 @@
-# School Projects
+  # School Projects
 
 
 ## library_collections
@@ -17,6 +17,24 @@ Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 - **Tambah Buku**: Pengguna dapat menambahkan data buku.
 - **Ubah Buku**: Pengguna dapat mengubah detail data buku.
 - **Hapus Buku**: Pengguna dapat menghapus data buku.
+
+
+## multi_user_login
+
+Proyek sesi login sederhana untuk level admin, pegawai, dan pengurus.  
+Berfungsi agar user dapat login sesuai level/kategori dalam website.
+
+#### Detail Proyek:
+- **Nama**: Login Multi User Level
+- **Sintaks**: PHP (Native)
+- **Database**: MySQL
+- **Dibuat pada**: 15 Okt 2024
+- **Selesai pada**: 16 Okt 2024
+
+#### Panduan Proyek:
+- **Sesi Admin**: User login sebagai Admin dan diarahkan ke halaman Admin.
+- **Sesi Pegawai**: User login sebagai Pegawai dan diarahkan ke halaman Pegawai.
+- **Sesi Pengurus**: User login sebagai Pengurus dan diarahkan ke halaman Pengurus.
 
 
 ## sciencetech_guestbook
