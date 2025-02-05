@@ -1,7 +1,8 @@
 # School Projects
 
 Semua proyek koding buatan saya yang bersumber dari sekolah saya akan di upload ke dalam repo ini.  
-Produk yang dimasukkan ke sini terdiri dari aplikasi statis dan dinamis, serta desain dan prototype nya.  
+Produk yang dimasukkan ke sini terdiri dari aplikasi statis dan dinamis, serta source code, package, desain dan prototype.  
+
 **School Projects © AnezaCode**
 
 
