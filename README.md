@@ -2,7 +2,7 @@
 
 Semua proyek koding buatan saya yang bersumber dari sekolah saya akan di upload ke dalam repo ini.  
 Produk yang dimasukkan ke sini terdiri dari aplikasi statis dan dinamis, serta desain dan prototype nya.  
-© AnezaCode
+**School Projects © AnezaCode**
 
 
 ## dream_movie
