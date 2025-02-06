@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bmi_calculator_cs/1.0.0": {
+        "runtime": {
+          "bmi_calculator_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bmi_calculator_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

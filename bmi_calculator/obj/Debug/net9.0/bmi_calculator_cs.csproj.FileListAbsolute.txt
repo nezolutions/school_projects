@@ -1,0 +1,14 @@
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\bin\Debug\net9.0\bmi_calculator_cs.exe
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\bin\Debug\net9.0\bmi_calculator_cs.deps.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\bin\Debug\net9.0\bmi_calculator_cs.runtimeconfig.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\bin\Debug\net9.0\bmi_calculator_cs.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\bin\Debug\net9.0\bmi_calculator_cs.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.AssemblyInfoInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.AssemblyInfo.cs
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.csproj.CoreCompileInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\refint\bmi_calculator_cs.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\bmi_calculator_cs.genruntimeconfig.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\bmi_calculator_cs\obj\Debug\net9.0\ref\bmi_calculator_cs.dll

@@ -1,0 +1,14 @@
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\bin\Debug\net9.0\volume_geometry.exe
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\bin\Debug\net9.0\volume_geometry.deps.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\bin\Debug\net9.0\volume_geometry.runtimeconfig.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\bin\Debug\net9.0\volume_geometry.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\bin\Debug\net9.0\volume_geometry.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.AssemblyInfoInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.AssemblyInfo.cs
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.csproj.CoreCompileInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\refint\volume_geometry.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\volume_geometry.genruntimeconfig.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D3\volume_geometry\obj\Debug\net9.0\ref\volume_geometry.dll
