@@ -39,6 +39,7 @@ Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 - **Selesai pada**: 10 Okt 2024
 
 #### Panduan Proyek:
+- Download source code, setup koneksi database, lalu jalankan menggunakan web server.
 - **Tambah Buku**: Penambahkan data buku baru.
 - **Tombol Ubah**: Pengubahan detail data buku.
 - **Tombol Hapus**: Penghapusan data buku.
@@ -57,6 +58,7 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 - **Selesai pada**: 16 Okt 2024
 
 #### Panduan Proyek:
+- Download source code, setup koneksi database, lalu jalankan menggunakan web server.
 - **Sesi Admin**: User login sebagai Admin dan diarahkan ke halaman Admin.
 - **Sesi Pegawai**: User login sebagai Pegawai dan diarahkan ke halaman Pegawai.
 - **Sesi Pengurus**: User login sebagai Pengurus dan diarahkan ke halaman Pengurus.
@@ -75,6 +77,7 @@ Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 - **Selesai pada**: 12 Nov 2024
 
 #### Panduan Proyek:
+- Download source code, setup koneksi database, lalu jalankan menggunakan web server.
 - **Form SISWA**: Diisi oleh siswa/i dari Sekolah Prestasi Prima.
 - **Form GURU**: Diisi oleh guru dan staf dari Sekolah Prestasi Prima.
 - **Form PENGUNJUNG**: Diisi oleh pengunjung yang berasal dari luar Sekolah Prestasi Prima.
@@ -93,4 +96,5 @@ Dapat digunakan untuk memproteksi halaman html yang diinginkan.
 - **Selesai pada**: 21 Nov 2024
 
 #### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
 - Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
