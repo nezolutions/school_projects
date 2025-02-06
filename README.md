@@ -86,14 +86,31 @@ Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.
 ## score_calculator
 
 Proyek kalkulator sederhana untuk menghitung nilai rapor siswa.
-Pengguna dapat memasukka nilai yang sesuai untuk mendapatkan hasil nilai rapor.
+Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 
 #### Detail Proyek:
 - **Nama**: Program Perhitungan Nilai Rapor Siswa
 - **Sintaks**: C#
 - **Database**: -
-- **Dibuat pada**: 23 Okt 2023
-- **Selesai pada**: 24 Okt 2023
+- **Dibuat pada**: 23 Okt 2023 07:00 AM
+- **Selesai pada**: 24 Okt 2023 07:30 AM
+
+#### Panduan Proyek:
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Pilih bangun datar yang ingin dihitung pada program, lalu masukkan bilangannya.
+
+
+## shape_calculator
+
+Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.
+Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas dan keliling.
+
+#### Detail Proyek:
+- **Nama**: Program Perhitungan Luas dan Keliling Bangun Datar
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 23 Okt 2023 07:40
+- **Selesai pada**: 23 Okt 2023 08:15
 
 #### Panduan Proyek:
 - Download source code, jalankan menggunakan 'dotnet run' pada file.
