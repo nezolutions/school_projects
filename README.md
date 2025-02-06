@@ -157,7 +157,7 @@ Proyek kalkulator sederhana untuk menghitung volume bangun ruang.
 Pengguna dapat memilih dan memasukkan nilai bangun ruang yang ingin dihitung.
 
 #### Detail Proyek:
-- **Nama**: Program Sederhana Menghitung Volume Bangun Ruang
+- **Nama**: Program Perhitungan Volume Bangun Ruang
 - **Sintaks**: C#
 - **Database**: -
 - **Dibuat pada**: 24 Okt 2023 08:23
