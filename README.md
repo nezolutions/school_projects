@@ -96,7 +96,8 @@ Pengguna dapat memasukka nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 - **Selesai pada**: 24 Okt 2023
 
 #### Panduan Proyek:
--
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Masukkan nilai pengetahuan (KI3), nilai keterampilan (KI4), nilai UH, nilai UAS
 
 
 ## static_user_login
