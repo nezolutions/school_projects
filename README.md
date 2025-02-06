@@ -19,6 +19,7 @@ Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus lis
 - **Selesai pada**: 30 Des 2024
 
 #### Panduan Proyek:
+- Download aplikasi dalam folder yang bernama app-debug.apk, lalu instal dan jalankan.
 - **ADD**: Untuk penambahaan list film baru.
 - **UPD**: Untuk pengeditan list film terpilih.
 - **DEL**: Untuk pengapusan list film terpilih.
