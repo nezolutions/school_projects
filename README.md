@@ -66,8 +66,8 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 
 ## sciencetech_guestbook
 
-Proyek Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.  
-Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
+Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta. 
+Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.  
 
 #### Detail Proyek:
 - **Nama**: Saintek Presma 2024 - PPLG
@@ -83,10 +83,26 @@ Buku tamu ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.
 - **Form PENGUNJUNG**: Diisi oleh pengunjung yang berasal dari luar Sekolah Prestasi Prima.
 
 
+## score_calculator
+
+Proyek kalkulator sederhana untuk menghitung nilai rapor siswa.
+Pengguna dapat memasukka nilai yang sesuai untuk mendapatkan hasil nilai rapor.
+
+#### Detail Proyek:
+- **Nama**: Program Perhitungan Nilai Rapor Siswa
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 23 Okt 2023
+- **Selesai pada**: 24 Okt 2023
+
+#### Panduan Proyek:
+-
+
+
 ## static_user_login
 
 Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.  
-Dapat digunakan untuk memproteksi halaman html yang diinginkan.
+Digunakan untuk memproteksi halaman html yang diinginkan.
 
 #### Detail Proyek:
 - **Nama**: Static User Login
