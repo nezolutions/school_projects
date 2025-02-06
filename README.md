@@ -83,7 +83,7 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 
 ## sciencetech_guestbook
 
-Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta. 
+Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.  
 Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.  
 
 #### Detail Proyek:
@@ -102,7 +102,7 @@ Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.
 
 ## score_calculator
 
-Proyek kalkulator sederhana untuk menghitung nilai rapor siswa.
+Proyek kalkulator sederhana untuk menghitung nilai rapor siswa.  
 Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 
 #### Detail Proyek:
@@ -119,7 +119,7 @@ Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 
 ## shape_calculator
 
-Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.
+Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.  
 Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas dan keliling.
 
 #### Detail Proyek:
