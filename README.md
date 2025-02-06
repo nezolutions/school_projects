@@ -2,8 +2,8 @@
 
 **School Projects © AnezaCode**  
 
-Semua proyek koding buatan saya yang bersumber dari sekolah saya akan di upload ke dalam repo ini.  
-Produk yang dimasukkan ke sini terdiri dari aplikasi statis dan dinamis, serta source code, package, desain dan prototype.
+Semua proyek koding buatan saya yang bersumber dari sekolah dan bekerja dengan baik akan di upload ke dalam repo ini.
+My Portfolio: https://bit.ly/gatrasatya
 
 
 ## dream_movie
