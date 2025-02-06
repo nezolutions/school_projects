@@ -2,8 +2,25 @@
 
 **School Projects © AnezaCode**  
 
-Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya bekerja telah bekerja.  
+Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya telah bekerja dengan baik.  
 Portfolio: https://bit.ly/gatrasatya
+
+
+## bmi_calculator
+
+Proyek kalkulator sederhana untuk melakukan perhitungan berat bada ideal (Body Mass Index).  
+Pengguna dapat mengetahui nilai dan kategori berdasarkan input berat badan dan tinggi badan.
+
+#### Detail Proyek:
+- **Nama**: Kalkulator BMI
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 24 Okt 2023 07:36
+- **Selesai pada**: 24 Okt 2023 08:12
+
+#### Panduan Proyek:
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Masukkan nilai berat badan (kg) dan tinggi badan (cm) untuk mendapatkan hasil.
 
 
 ## dream_movie
@@ -132,3 +149,21 @@ Digunakan untuk memproteksi halaman html yang diinginkan.
 #### Panduan Proyek:
 - Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
 - Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
+
+
+## volume_geometry
+
+Proyek kalkulator sederhana untuk menghitung volume bangun ruang.  
+Pengguna dapat memilih dan memasukkan nilai bangun ruang yang ingin dihitung.
+
+#### Detail Proyek:
+- **Nama**: Program Sederhana Menghitung Volume Bangun Ruang
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 24 Okt 2023 08:23
+- **Selesai pada**: 24 Okt 2023 08:54
+
+#### Panduan Proyek:
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
+
