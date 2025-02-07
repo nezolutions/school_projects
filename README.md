@@ -180,6 +180,7 @@ Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout da
 
 #### Panduan Proyek:
 - Download program, lalu tekan tombol macro untuk membuka kalkulator.
+- Masukkan bilangan 1 yang akan di kalkulasi dengan bilangan ke 2.
 
 
 **School Projects © AnezaCode**
