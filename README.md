@@ -1,8 +1,6 @@
 # School Projects
 
-**School Projects © AnezaCode**  
-
-Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya telah bekerja dengan baik.  
+ Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya telah bekerja dengan baik.  
 Portfolio: https://bit.ly/gatrasatya
 
 
@@ -81,6 +79,23 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 - **Sesi Pengurus**: User login sebagai Pengurus dan diarahkan ke halaman Pengurus.
 
 
+## plane_geometry_counter
+
+Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.  
+Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas dan keliling.
+
+#### Detail Proyek:
+- **Nama**: Program Menghitung Luas & Keliling Bangun Datar
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 23 Okt 2023 07:40
+- **Selesai pada**: 23 Okt 2023 08:15
+
+#### Panduan Proyek:
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Pilih bangun datar, lalu masukkan bilangan pada untuk mencari luas dan keliling.
+
+
 ## sciencetech_guestbook
 
 Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.  
@@ -114,16 +129,16 @@ Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 
 #### Panduan Proyek:
 - Download source code, jalankan menggunakan 'dotnet run' pada file.
-- Pilih bangun datar yang ingin dihitung pada program, lalu masukkan bilangannya.
+- Masukkan nilai pengetahuan (KI3), nilai keterampilan (KI4), nilai ulangan harian dan ulangan akhir semester.
 
 
-## shape_calculator
+## solid_geometry_counter
 
-Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.  
-Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas dan keliling.
+Proyek kalkulator sederhana untuk mencari volume bangun ruang.  
+Pengguna dapat memasukkan nilai sisi bangun ruang untuk mendapatkan hasil volume.
 
 #### Detail Proyek:
-- **Nama**: Program Perhitungan Luas dan Keliling Bangun Datar
+- **Nama**: Program Menghitung Volume Bangun Ruang
 - **Sintaks**: C#
 - **Database**: -
 - **Dibuat pada**: 23 Okt 2023 07:40
@@ -131,7 +146,7 @@ Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas d
 
 #### Panduan Proyek:
 - Download source code, jalankan menggunakan 'dotnet run' pada file.
-- Masukkan nilai pengetahuan (KI3), nilai keterampilan (KI4), nilai UH, nilai UAS
+- Pilih bangun ruang, lalu masukkan bilangan pada untuk mencari volume.
 
 
 ## static_user_login
@@ -151,19 +166,20 @@ Digunakan untuk memproteksi halaman html yang diinginkan.
 - Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
 
 
-## volume_geometry
+## vba_calculator
 
-Proyek kalkulator sederhana untuk menghitung volume bangun ruang.  
-Pengguna dapat memilih dan memasukkan nilai bangun ruang yang ingin dihitung.
+Proyek kalkulator sederhana yang dibuat menggunakan Visual Basic dari Microsoft Excel.  
+Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout dan fungsi.
 
 #### Detail Proyek:
-- **Nama**: Program Perhitungan Volume Bangun Ruang
-- **Sintaks**: C#
+- **Nama**: Kalkulator VBA
+- **Sintaks**: Visual Basic (Microsoft Excel)
 - **Database**: -
-- **Dibuat pada**: 24 Okt 2023 08:23
-- **Selesai pada**: 24 Okt 2023 08:54
+- **Dibuat pada**: 23 Agu 2023 07:45
+- **Selesai pada**: 23 Agu 2023 08:18
 
 #### Panduan Proyek:
-- Download source code, jalankan menggunakan 'dotnet run' pada file.
-- Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
+- Download program, lalu tekan tombol macro untuk membuka kalkulator.
 
+
+**School Projects © AnezaCode**
