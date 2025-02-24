@@ -1,13 +1,14 @@
 # School Projects
 
- Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya telah bekerja dengan baik.  
-Portfolio: https://bit.ly/gatrasatya
+Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya telah bekerja dengan baik. :>  
+- Email: anezacode@proton.me
+- Website: https://bit.ly/gatrasatya
 
 
 ## bmi_calculator
 
-Proyek kalkulator sederhana untuk melakukan perhitungan berat bada ideal (Body Mass Index).  
-Pengguna dapat mengetahui nilai dan kategori berdasarkan input berat badan dan tinggi badan.
+Proyek kalkulator sederhana untuk menghitung berat bada ideal (Body Mass Index).  
+Pengguna dapat menngetahui kategori berat badan berdasarkan input berat badan dan tinggi badan.
 
 #### Detail Proyek:
 - **Nama**: Kalkulator BMI
@@ -23,7 +24,7 @@ Pengguna dapat mengetahui nilai dan kategori berdasarkan input berat badan dan t
 
 ## dream_movie
 
-Proyek CRUD sederhana untuk memasukkan list film favorit ke dalam database.  
+Proyek CRUD sederhana untuk memasukkan list film favorit ke aplikasi.  
 Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus list film.
 
 #### Detail Proyek:
@@ -41,9 +42,26 @@ Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus lis
 - **CLR**: Untuk pembersihan keseluruhan list film.
 
 
+## geometry_calculator
+
+Proyek kalkulator sederhana untuk menghitung bangun datar.  
+Pengguna dapat menghitung luas dan keliling bangun ruang.
+
+#### Detail Proyek:
+- **Nama**: Kalkulator BMI
+- **Sintaks**: C#
+- **Database**: -
+- **Dibuat pada**: 24 Okt 2023 07:36
+- **Selesai pada**: 24 Okt 2023 08:12
+
+#### Panduan Proyek:
+- Download source code, jalankan menggunakan 'dotnet run' pada file.
+- Pilih bangun ruang, lalu masukkan nilai yang ingin dihitung luas dan kelilingnya.
+
+
 ## library_collections
 
-Proyek CRUD sederhana untuk memasukkan data buku ke dalam database.  
+Proyek CRUD sederhana untuk memasukkan data buku ke dalam aplikasi.  
 Pengguna dapat menambahkan data buku baru, mengedit, serta menghapus data buku.
 
 #### Detail Proyek:
@@ -135,7 +153,7 @@ Pengguna sebagai player yang harus keluar dari labirin tanpa menyentuh border.
 ## static_user_login
 
 Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.  
-Digunakan untuk memproteksi halaman html yang diinginkan.
+Digunakan untuk memproteksi halaman html yang disetel (gimmick).
 
 #### Detail Proyek:
 - **Nama**: Static User Login
@@ -151,7 +169,7 @@ Digunakan untuk memproteksi halaman html yang diinginkan.
 
 ## vba_calculator
 
-Proyek kalkulator sederhana yang dibuat menggunakan Visual Basic dari Microsoft Excel.  
+Proyek kalkulator sederhana yang dibuat menggunakan pemrograman Visual Basic dari Microsoft Office Excel.  
 Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout dan fungsi.
 
 #### Detail Proyek:
