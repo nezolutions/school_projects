@@ -132,6 +132,23 @@ Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 - Masukkan nilai pengetahuan (KI3), nilai keterampilan (KI4), nilai ulangan harian dan ulangan akhir semester.
 
 
+## scratch_getout
+
+Proyek game sederhana menggunakan pemrograman Scratch bertemakan Maze Game.
+Pengguna sebagai player yang harus keluar dari labirin tanpa menyentuh border.
+
+#### Detail Proyek:
+- **Nama**: GET OUT!
+- **Sintaks**: Scratch
+- **Database**: -
+- **Dibuat pada**: 02 Sep 2024
+- **Selesai pada**: 23 Sep 2024
+
+#### Panduan Proyek:
+- Download file sb3, lalu open di website scratch.mit.edu dan tekan tombol flag untuk menjalankan game.
+- Gunakan tombol yang sesuai dnegan instruksi untuk menjalankan player agar keluar dari labirin.
+
+
 ## solid_geometry_counter
 
 Proyek kalkulator sederhana untuk mencari volume bangun ruang.  
