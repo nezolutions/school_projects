@@ -79,23 +79,6 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 - **Sesi Pengurus**: User login sebagai Pengurus dan diarahkan ke halaman Pengurus.
 
 
-## plane_geometry_counter
-
-Proyek kalkulator sederhana untuk menghitung luas dan keliling bangun datar.  
-Pengguna dapat memasukkan nilai sisi bangun datar untuk mendapatkan hasil luas dan keliling.
-
-#### Detail Proyek:
-- **Nama**: Program Menghitung Luas & Keliling Bangun Datar
-- **Sintaks**: C#
-- **Database**: -
-- **Dibuat pada**: 23 Okt 2023 07:40
-- **Selesai pada**: 23 Okt 2023 08:15
-
-#### Panduan Proyek:
-- Download source code, jalankan menggunakan 'dotnet run' pada file.
-- Pilih bangun datar, lalu masukkan bilangan pada untuk mencari luas dan keliling.
-
-
 ## sciencetech_guestbook
 
 Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.  
@@ -147,23 +130,6 @@ Pengguna sebagai player yang harus keluar dari labirin tanpa menyentuh border.
 #### Panduan Proyek:
 - Download file sb3, lalu open di website scratch.mit.edu dan tekan tombol flag untuk menjalankan game.
 - Gunakan tombol yang sesuai dnegan instruksi untuk menjalankan player agar keluar dari labirin.
-
-
-## solid_geometry_counter
-
-Proyek kalkulator sederhana untuk mencari volume bangun ruang.  
-Pengguna dapat memasukkan nilai sisi bangun ruang untuk mendapatkan hasil volume.
-
-#### Detail Proyek:
-- **Nama**: Program Menghitung Volume Bangun Ruang
-- **Sintaks**: C#
-- **Database**: -
-- **Dibuat pada**: 23 Okt 2023 07:40
-- **Selesai pada**: 23 Okt 2023 08:15
-
-#### Panduan Proyek:
-- Download source code, jalankan menggunakan 'dotnet run' pada file.
-- Pilih bangun ruang, lalu masukkan bilangan pada untuk mencari volume.
 
 
 ## static_user_login
