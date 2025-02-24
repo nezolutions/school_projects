@@ -1,0 +1,14 @@
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\bin\Debug\net9.0\pt1.exe
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\bin\Debug\net9.0\pt1.deps.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\bin\Debug\net9.0\pt1.runtimeconfig.json
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\bin\Debug\net9.0\pt1.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\bin\Debug\net9.0\pt1.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.AssemblyInfoInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.AssemblyInfo.cs
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.csproj.CoreCompileInputs.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\refint\pt1.dll
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.pdb
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\pt1.genruntimeconfig.cache
+C:\Users\Gatra\OneDrive\Documents\BLOKING\GATRA\10 BLOKING 23 W3 D4\pt1\obj\Debug\net9.0\ref\pt1.dll
