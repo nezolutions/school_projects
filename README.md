@@ -7,7 +7,7 @@ Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya 
 
 ## bmi_calculator
 
-Proyek kalkulator sederhana untuk menghitung berat bada ideal (Body Mass Index).  
+Program sederhana untuk menghitung berat bada ideal (Body Mass Index).  
 Pengguna dapat menngetahui kategori berat badan berdasarkan input berat badan dan tinggi badan.
 
 #### Detail Proyek:
@@ -42,9 +42,26 @@ Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus lis
 - **CLR**: Untuk pembersihan keseluruhan list film.
 
 
+## even_odd
+
+Program sederhana untuk mencari nilai ganjil dan genap.
+Pengguna dapat mengetahui angka yang dinilai bersifat ganjil ataupun genap.
+
+#### Detail Proyek:
+- **Nama**: Program Mencari Ganjil & Genap
+- **Sintaks**: C++
+- **Database**: -
+- **Dibuat pada**: 7 Nov 2023 07:21
+- **Selesai pada**: 7 Nov 2023 08:06
+
+#### Panduan Proyek:
+- Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
+- Masukkan nilai yang ingin diketahui ganjil / genap.
+
+
 ## geometry_calculator
 
-Proyek kalkulator sederhana untuk menghitung bangun datar.  
+Program sederhana untuk menghitung bangun datar.  
 Pengguna dapat menghitung luas dan keliling bangun ruang.
 
 #### Detail Proyek:
@@ -118,7 +135,7 @@ Buku tamu yang digunakan untuk acara Saintek Prestasi Prima tahun 2024.
 
 ## score_calculator
 
-Proyek kalkulator sederhana untuk menghitung nilai rapor siswa.  
+Program sederhana untuk menghitung nilai rapor siswa.  
 Pengguna dapat memasukkan nilai yang sesuai untuk mendapatkan hasil nilai rapor.
 
 #### Detail Proyek:
@@ -167,9 +184,26 @@ Digunakan untuk memproteksi halaman html yang disetel (gimmick).
 - Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
 
 
+## temp_converter
+
+Program sederhana untuk mengkonversi suhu ke satuan suhu lainnya.
+Pengguna dapat mengetahui suhu celcius jika dikonversi ke dalam farenheit, reamur, dan kelvin.
+
+#### Detail Proyek:
+- **Nama**: Program Mencari G
+- **Sintaks**: C++
+- **Database**: -
+- **Dibuat pada**: 7 Nov 2023 08:13
+- **Selesai pada**: 7 Nov 2023 08:39
+
+#### Panduan Proyek:
+- Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
+- Masukkan nilai suhu dalam celcius untuk dikonversi ke satuan lainnya.
+
+
 ## vba_calculator
 
-Proyek kalkulator sederhana yang dibuat menggunakan pemrograman Visual Basic dari Microsoft Office Excel.  
+Program kalkulator sederhana yang dibuat menggunakan pemrograman Visual Basic dari Microsoft Office Excel.  
 Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout dan fungsi.
 
 #### Detail Proyek:
