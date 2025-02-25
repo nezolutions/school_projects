@@ -59,6 +59,23 @@ Pengguna dapat mengetahui angka yang dinilai bersifat ganjil ataupun genap.
 - Masukkan nilai yang ingin diketahui ganjil / genap.
 
 
+## factorial_num
+
+Program sederhana untuk mencari bilangan faktorial.
+Pengguna dapat mengetahui nilai angka yang telah dihitung faktorial.
+
+#### Detail Proyek:
+- **Nama**: Program Mencari Ganjil & Genap
+- **Sintaks**: C++
+- **Database**: -
+- **Dibuat pada**: 8 Nov 2023 07:16
+- **Selesai pada**: 8 Nov 2023 07:53
+
+#### Panduan Proyek:
+- Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
+- Masukkan bilangan yang akan dihitung faktorial.
+
+
 ## geometry_calculator
 
 Program sederhana untuk menghitung bangun datar.  
@@ -112,6 +129,23 @@ Pengguna dapat melakukan login sesuai level/role pada web.
 - **Sesi Admin**: User login sebagai Admin dan diarahkan ke halaman Admin.
 - **Sesi Pegawai**: User login sebagai Pegawai dan diarahkan ke halaman Pegawai.
 - **Sesi Pengurus**: User login sebagai Pengurus dan diarahkan ke halaman Pengurus.
+
+
+## prime_num
+
+Program sederhana untuk mencari bilangan prima dengan menginput nilai max.
+Pengguna dapat mengetahui susunan angka bilangan prima dari inputnya.
+
+#### Detail Proyek:
+- **Nama**: Program Mencari Ganjil & Genap
+- **Sintaks**: C++
+- **Database**: -
+- **Dibuat pada**: 8 Nov 2023 07:02
+- **Selesai pada**: 8 Nov 2023 07:33
+
+#### Panduan Proyek:
+- Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
+- Masukkan nilai yang ingin diketahui.
 
 
 ## sciencetech_guestbook
