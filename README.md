@@ -207,7 +207,7 @@ Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.
 Digunakan untuk memproteksi halaman html yang disetel (gimmick).
 
 #### Detail Proyek:
-- **Nama**: Static User Login
+- **Nama**: Login Form Statis
 - **Sintaks**: HTML, CSS, JavaScript
 - **Database**: -
 - **Dibuat pada**: 20 Nov 2024
