@@ -201,7 +201,7 @@ Pengguna sebagai player yang harus keluar dari labirin tanpa menyentuh border.
 - Gunakan tombol yang sesuai dnegan instruksi untuk menjalankan player agar keluar dari labirin.
 
 
-## static_user_login
+## static_login
 
 Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.  
 Digunakan untuk memproteksi halaman html yang disetel (gimmick).
