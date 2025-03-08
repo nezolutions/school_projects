@@ -42,6 +42,24 @@ Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus lis
 - **CLR**: Untuk pembersihan keseluruhan list film.
 
 
+## dynamic_login
+
+Proyek halaman login secara dinamis menggunakan database.  
+Pengguna dapat melakukan registrasi akun serta login ke dashboard.
+
+#### Detail Proyek:
+- **Nama**: Dynamic Login
+- **Sintaks**: PHP (Native)
+- **Database**: MySQL
+- **Dibuat pada**: 7 Mar 2025
+- **Selesai pada**: 8 Mar 2025
+
+#### Panduan Proyek:
+- Download source code, setup koneksi database, lalu jalankan menggunakan web server.
+- Buatlah akun baru dengan memasukkan username dan password ke dalam database.
+- Masukkan 'username' dan 'password' setelah registrasi untuk ke halaman dashboard.
+
+
 ## even_odd
 
 Program sederhana untuk mencari nilai ganjil dan genap.
@@ -215,7 +233,8 @@ Digunakan untuk memproteksi halaman html yang disetel (gimmick).
 
 #### Panduan Proyek:
 - Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
-- Cukup mengganti 'username' dan 'password' sesuai keinginan, lalu login dan masuk ke halaman dashboard.
+- Masukkan 'username' dan 'password' yang sesuai untuk ke halaman dashboard.
+- Username dan password dapat diganti pada file script.js
 
 
 ## temp_converter
