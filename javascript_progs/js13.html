@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript2</title>
+</head>
+<body>
+    <script>
+        document.addEventListener("submit", (e) => {
+            e.preventDefault();
+        });
+        function Hari() {
+            var hari = document.fform.ihari.value;
+            var nama = " ";
+
+            if (isNaN(hari) || hari.includes('.') || hari.includes(',') || hari.includes('+') || hari.includes('-')) {
+                window.alert("Invalid Input");
+                return 0;
+            } else {
+                switch (parseInt(hari)) {
+                    case 1:
+                        nama = "Senin"; break;
+                    case 2:
+                        nama = "Selasa"; break;
+                    case 3:
+                        nama = "Rabu"; break;
+                    case 4:
+                        nama = "Khamis"; break;
+                    case 5:
+                        nama = "Jumat"; break;
+                    case 6:
+                        nama = "Sabtu"; break;
+                    case 7:
+                        nama = "Minggu"; break;
+                    default:
+                        nama = "Invalid Input"; break;
+                }
+                if (parseInt(hari) < 1 || parseInt(hari) > 7) {
+                    window.alert(nama);
+                } else {
+                    var output = "Hari " + hari + " adalah: " + nama;
+                    window.alert(output);
+                    return 0;
+                } 
+            }
+        }
+    </script>
+    <center>
+        <form name="fform" method="post">
+            <h2>Hari dalam Nomor</h2>
+            <p>Masukkan Hari (1-7) : <input type="number" name="ihari" maxlength="1" max="7" min="1" required/></p>
+            <input type="button" value="Temukan" onclick="Hari()" />
+            <input type="reset" value="Ulang" />
+        </form>
+    </center>
+</body>
+</html>

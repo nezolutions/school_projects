@@ -1,0 +1,75 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript2</title>
+</head>
+<body>
+    <script>
+        document.addEventListener("submit", (e) => {
+            e.preventDefault();
+        });
+        function hitungIp() {
+            var quis = parseFloat(document.fform.iquis.value);
+            var tugas = parseFloat(document.fform.itugas.value);
+            var uts = parseFloat(document.fform.iuts.value);
+            var uas = parseFloat(document.fform.iuas.value);
+            var ip, ket;
+            var na = (0.10 * quis) + (0.20 * tugas) + (0.30 * uts) + (0.40 * uas);
+
+            if ((na > 80) && (na <= 100)) {
+                ip = "A";
+                ket = "Lulus (Sangat Baik)";
+            } else if ((na > 70) && (na <= 80)) {
+                ip = "B";
+                ket = "Lulus (Baik)";
+            } else if ((na > 60) && (na <= 70)) {
+                ip = "C";
+                ket = "Lulus (Cukup Baik)";
+            } else if ((na > 40) && (na <= 60)) {
+                ip = "D";
+                ket = "Lulus (Remedial)";
+            } else if ((na > 0) && (na <= 40)) {
+                ip = "F";
+                ket = "Tidak Lulus (Remedial)";
+            } else {
+                ip = "";
+                ket = "";
+            }
+
+            document.fform.oip.value = ip;
+            document.fform.oket.value = ket;
+            return 0;
+        }
+    </script>
+    <form name="fform" method="post">
+        <table border="1" width="90%" height="25%" align="center" style="border-collapse: collapse;">
+            <tr>
+                <td width="100%"  colspan="4">
+                    <h2 align="center">Menghitung Index Prestasi</h2>
+                </td>
+            </tr>
+            <tr>
+                <td width="25%">Quis (10%) : <input type="text" name="iquis" id="" required></td>
+                <td width="25%">Tugas (20%) : <input type="text" name="itugas" id="" required></td>
+                <td width="25%">UTS (30%) : <input type="text" name="iuts" id="" required></td>
+                <td width="25%">UAS (40%) : <input type="text" name="iuas" id="" required></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="4" align="center">
+                    <p align="center">
+                        <input type="submit" value="Hitung" onclick="hitungIp()" />
+                        <input type="reset" value="Ulang" />
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="4" align="center">
+                    Indeks Prestasi: <input type="text" size="5" name="oip" id="" readonly />
+                    Keterangan: <input type="text" name="oket" size="25" id="" readonly/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

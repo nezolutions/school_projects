@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript2</title>
+</head>
+<body>
+    <script>
+        document.addEventListener("submit", (e) => {
+            e.preventDefault();
+        });
+        function tanyaBilangan() {
+            var bil = parseFloat(document.fform.bilangan.value);
+            var jenis;
+
+            if(isNaN(bil)) {
+                alert("Bilangan tidak boleh kosong");
+                return 0;
+            } else {
+                if(bil > 0) {
+                    jenis = "Positif";
+                } else if (bil < 0) {
+                    jenis = "Negatif";
+                } else {
+                    jenis = "0";
+                }
+            }
+            alert(bil + " adalah " + jenis);
+        }
+    </script>
+    <center>
+        <form name="fform" method="post">
+            <h2>Bilangan Negatif, Nol, atau Positif?</h2>
+            <input type="text" name="bilangan" placeholder="Input Bilangan" />
+            <p>
+                <input type="button" value="Tanya" onclick="tanyaBilangan()" />
+                <input type="reset" value="Ulang">
+            </p>
+        </form>
+    </center>
+</body>
+</html>
