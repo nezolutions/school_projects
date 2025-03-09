@@ -1,0 +1,153 @@
+html, * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    user-select: none;
+}
+
+img.logo-brand {
+    vertical-align: baseline;
+    margin-top: -2px;
+}
+
+nav.navbar {
+    background-color: rgb(25, 25, 25);
+    padding: 20px;
+    display: block;
+}
+
+p.main-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    line-height: 0.8;
+    font-weight: bold;
+    user-select: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+p.main-title:hover {
+    text-shadow: 1px 1px 10px #aaa;
+}
+
+span.main-brand-title {
+    font-size: 32px;
+}
+
+button.main-btn1:hover, button.main-btn2:hover, button.main-btn3:hover {
+    box-shadow: 1px 1px 10px 1px white;
+}
+
+p.title {
+    padding: 16px;
+}
+
+p.title span {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid rgb(186, 186, 186);
+}
+
+table {
+    justify-content: center;
+    margin: 10px;
+}
+
+th {
+    background-color: rgb(255, 200, 0);
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    color: rgb(75, 75, 75);
+}
+
+td.no {
+    text-align: center;
+    font-weight: bold;
+}
+
+td.x {
+    padding: 5px;
+}
+
+p.harga {
+    background-color: rgb(236, 236, 236);
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 10px;
+    padding: 7.5px;
+}
+
+span.rp {
+    border-right: 1px solid rgb(186, 186, 186);
+    padding: 8px;
+}
+
+span.num {
+    padding: 8px;
+}
+
+input.jml, p.jml {
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 10px;
+    padding: 8px;
+    width: 100%;
+    font-size: 15px;
+}
+
+p.jml {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+td.clc {
+    text-align: right;
+    font-weight: 600;
+}
+
+input.button {
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: rgb(255, 200, 0);
+    padding: 10px;
+    transition: 0.25s;
+}
+
+td.function {
+    user-select: none;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+input.button:hover {
+    background-color: rgb(200, 160, 0);
+    cursor: pointer;
+}
+
+div.mainpage {
+    display: block;
+}
+
+div#payment {
+    display: none;
+    cursor: pointer;
+}
+
+.outputnya {
+    font-family: monospace;
+}
+
+.h44 {
+    text-align: center;
+}

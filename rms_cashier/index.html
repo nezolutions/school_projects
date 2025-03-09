@@ -1,0 +1,137 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rumah Makan Skibidi</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="home.png" type="image/x-icon">
+</head>
+<body>
+    <nav class="navbar" id="nav">
+        <a href="index.html">
+            <p class="main-title">RUMAH MAKAN<br />
+                <span class="main-brand-title">SKIBIDI</span>
+            </p>
+        </a>
+    </nav>
+    <br />
+    <center>
+        <div id="mainpage">
+            <form> 
+                <table bgcolor="white">
+                    <tr>
+                        <th style="width: 5px;">No</th>
+                        <th style="width: 300px;">Makanan/Minuman</th>
+                        <th style="width: 250px;">Harga</th>
+                        <th style="width: 200px;">Jumlah Pesanan</th>
+                    </tr>
+                    <tr>
+                        <td class="no">1</td>
+                        <td>Pizza</td>
+                        <td class="x">
+                            <p class="harga">
+                                <span class="rp">Rp </span>
+                                <span class="num">&nbsp;50,000.00</span>
+                            </p>
+                        </td>
+                        <td>
+                            <input type="text" class="jml" id="nasgorSh" placeholder="0" maxlength="3" oninput="hitung()" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="no">2</td>
+                        <td>Taco</td>
+                        <td class="x">
+                            <p class="harga">
+                                <span class="rp">Rp </span>
+                                <span class="num">&nbsp;25,000.00</span>
+                            </p>
+                        </td>
+                        <td>
+                            <input type="text" class="jml" id="nasgorAa" placeholder="0" maxlength="3" oninput="hitung()" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="no">3</td>
+                        <td>Burger</td>
+                        <td class="x">
+                            <p class="harga">
+                                <span class="rp">Rp </span>
+                                <span class="num">&nbsp;25,000.00</span>
+                            </p>
+                        </td>
+                        <td>
+                            <input type="text" class="jml" id="nasgorSb" placeholder="0" maxlength="3" oninput="hitung()" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="no">4</td>
+                        <td>Fantastic</td>
+                        <td class="x">
+                            <p class="harga">
+                                <span class="rp">Rp </span>
+                                <span class="num">&nbsp;10,000.00</span>
+                            </p>
+                        </td>
+                        <td>
+                            <input type="text" class="jml" id="lemonTea" placeholder="0" maxlength="3" oninput="hitung()" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="no">5</td>
+                        <td>Cocacolastic</td>
+                        <td class="x">
+                            <p class="harga">
+                                <span class="rp">Rp </span>
+                                <span class="num">&nbsp;10,000.00</span>
+                            </p>
+                        </td>
+                        <td>
+                            <input type="text" class="jml" id="esTehManis" placeholder="0" maxlength="3" oninput="hitung()" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="clc" colspan="3">Jumlah Harga</td>
+                        <td>
+                            <p class="jml" id="jumlahBar">0</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="clc" colspan="3">Diskon (5%)</td>
+                        <td>
+                            <p class="jml" id="diskonBar">0</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="clc" colspan="3">Total Pembayaran</td>
+                        <td>
+                            <p class="jml" id="totalBar">0</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" class="function">
+                            <input class="button" type="reset" value="Batalkan Pesanan" onclick="batal()" />&nbsp;
+                            <input class="button" type="button" value="Cetak Struk" onclick="cetak()" id="confirm" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div id="payment" ondblclick="window.location.reload()">
+            <table>
+                <tr>
+                    <td>
+                        <h4 class="outputnya h44">Rumah Makan Skibidi</h4>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                       <p id="menuBar" class="outputnya"></p> 
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </center>
+    <script src="script.js"></script>
+</body>
+</html>
