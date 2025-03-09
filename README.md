@@ -22,9 +22,26 @@ Pengguna dapat menngetahui kategori berat badan berdasarkan input berat badan da
 - Masukkan nilai berat badan (kg) dan tinggi badan (cm) untuk mendapatkan hasil.
 
 
+## bmi_calculator_js
+
+Program sederhana untuk menghitung berat bada ideal (Body Mass Index) di website.  
+Pengguna dapat menngetahui kategori berat badan berdasarkan input berat badan dan tinggi badan.
+
+#### Detail Proyek:
+- **Nama**: BMI Checker
+- **Sintaks**: JavaScript
+- **Database**: -
+- **Dibuat pada**: 11 Jan 2024 10:40
+- **Selesai pada**: 11 Jan 2024 11:10
+
+#### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
+- Masukkan nilai berat badan (kg) dan tinggi badan (cm) untuk mendapatkan hasil.
+
+
 ## dream_movie
 
-Proyek CRUD sederhana untuk memasukkan list film favorit ke aplikasi.  
+Proyek CRUD sederhana menggunakan Android Studio untuk memasukkan list film favorit ke aplikasi.  
 Pengguna dapat menambahkan list film favorit baru, mengedit, serta menghapus list film.
 
 #### Detail Proyek:
@@ -56,8 +73,8 @@ Pengguna dapat melakukan registrasi akun serta login ke dashboard.
 
 #### Panduan Proyek:
 - Download source code, setup koneksi database, lalu jalankan menggunakan web server.
-- Buatlah akun baru dengan memasukkan username dan password ke dalam database.
-- Masukkan 'username' dan 'password' setelah registrasi untuk ke halaman dashboard.
+- Buatlah akun baru dengan memasukkan username dan password ke dalam database di phpMyAdmin.
+- Masukkan 'username' dan 'password' setelah registrasi untuk pergi ke halaman dashboard.
 
 
 ## even_odd
@@ -94,6 +111,23 @@ Pengguna dapat mengetahui nilai angka yang telah dihitung faktorial.
 - Masukkan bilangan yang akan dihitung faktorial.
 
 
+## ftc_converter
+
+Program sederhana untuk mengkonversi suhu fahrenheit ke suhu celcius (Fahrenheit to Celcius).
+Pengguna dapat mengetahui nilai suhu derajet fahrenheit setelag dikonversi ke dalam derajat celcius.
+
+#### Detail Proyek:
+- **Nama**: FTC Converter
+- **Sintaks**: JavaScript
+- **Database**: -
+- **Dibuat pada**: 11 Jan 2024 11:25
+- **Selesai pada**: 11 Jan 2024 11:45
+
+#### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
+- Masukkan nilai suhu derajat Fahrenheit untuk dikonversi ke dalam suhu derajar Celcius.
+
+
 ## geometry_calculator
 
 Program sederhana untuk menghitung bangun datar.  
@@ -109,6 +143,26 @@ Pengguna dapat menghitung luas dan keliling bangun ruang.
 #### Panduan Proyek:
 - Download source code, jalankan menggunakan 'dotnet run' pada file.
 - Pilih bangun ruang, lalu masukkan nilai yang ingin dihitung luas dan kelilingnya.
+
+
+## javascript_progs
+
+Program sederhana yang dibuat menggunakan bahasa pemrograman JavaScript.
+Pengguna dapat mengetahui statement terdiri dari if-else, for-loop, dan switch-case.
+
+#### Detail Proyek:
+- **Nama**: js
+- **Sintaks**: JavaScript
+- **Database**: -
+- **Dibuat pada**: 9 Jan 2024 10:40
+- **Selesai pada**: 9 Jan 2024 13:20
+
+#### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
+- **js11**: Program mendeteksi bilangan positif, nol, dan negatif.
+- **js12**: Program menghitung nilai raport siswa.
+- **js13**: Program mengetahui nama hari dari input angka 1-7.
+- **js14**: Program perulangan bilangan kuadrat dari angka 1-100. 
 
 
 ## library_collections
@@ -166,6 +220,24 @@ Pengguna dapat mengetahui susunan angka bilangan prima dari inputnya.
 - Masukkan nilai yang ingin diketahui.
 
 
+## rms_cashier
+
+Program kasir sederhana untuk menghitung jumlah pesanan restoran makanan.
+Pengguna dapat mengetahui total harga dari jumlah pesanan makanan customer.
+
+#### Detail Proyek:
+- **Nama**: Rumah Makan Skibidi
+- **Sintaks**: JavaScript
+- **Database**: -
+- **Dibuat pada**: 12 Jan 2024 11:00
+- **Selesai pada**: 12 Jan 2024 13:20
+
+#### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
+- Masukkan jumlah pesanan untuk mengetahui total harga pesanan.
+- Cetak struk jika pelanggan sudah melakukan pemesanan makanan.
+
+
 ## sciencetech_guestbook
 
 Proyek Buku tamu sederhana ini bertujuan untuk mengumpulkan umpan balik dari berbagai peserta.  
@@ -219,6 +291,23 @@ Pengguna sebagai player yang harus keluar dari labirin tanpa menyentuh border.
 - Gunakan tombol yang sesuai dnegan instruksi untuk menjalankan player agar keluar dari labirin.
 
 
+## simple_calculator
+
+Proyek kalkulator sederhana berbasis website menggunakan syntax HTML, CSS dan JavaScript.
+Pengguna dapat menghitung layaknya kalkulator pada umumnya.
+
+#### Detail Proyek:
+- **Nama**: Web Simple Calculator
+- **Sintaks**: JavaScript
+- **Database**: -
+- **Dibuat pada**: 11 Jan 2024 12:30
+- **Selesai pada**: 11 Jan 2024 14:40
+
+#### Panduan Proyek:
+- Download source code, lalu jalankan menggunakan ekstensi Live Server untuk HTML.
+- Hitunglah nilai yang ingin dikalkulasi untuk mengetahui hasilnya.
+
+
 ## static_login
 
 Proyek halaman login sederhana menggunakan bahasa pemrograman web statis.  
@@ -243,7 +332,7 @@ Program sederhana untuk mengkonversi suhu ke satuan suhu lainnya.
 Pengguna dapat mengetahui suhu celcius jika dikonversi ke dalam farenheit, reamur, dan kelvin.
 
 #### Detail Proyek:
-- **Nama**: Program Mencari G
+- **Nama**: Program Sederhana Konversi Suhu
 - **Sintaks**: C++
 - **Database**: -
 - **Dibuat pada**: 7 Nov 2023 08:13
@@ -257,7 +346,7 @@ Pengguna dapat mengetahui suhu celcius jika dikonversi ke dalam farenheit, reamu
 ## vba_calculator
 
 Program kalkulator sederhana yang dibuat menggunakan pemrograman Visual Basic dari Microsoft Office Excel.  
-Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout dan fungsi.
+Memiliki 2 program, yaitu kalkulator basic dan sederhana. Keduanya memiliki perbedaan dari layout dan fungsi.
 
 #### Detail Proyek:
 - **Nama**: Kalkulator VBA
@@ -269,6 +358,8 @@ Memiliki 2 program, yaitu kalkulator basic dan sederhana, berbeda dari layout da
 #### Panduan Proyek:
 - Download program, lalu tekan tombol macro untuk membuka kalkulator.
 - Masukkan bilangan 1 yang akan di kalkulasi dengan bilangan ke 2.
+
+
 
 
 **School Projects © AnezaCode**
