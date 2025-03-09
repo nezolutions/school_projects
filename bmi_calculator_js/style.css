@@ -1,0 +1,64 @@
+html, * {
+    margin: 0;
+    padding: 2;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    user-select: none;
+}
+
+p.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    user-select: text;
+}
+
+span.subtitle {
+    font-weight: 100;
+    font-size: 16px;
+    user-select: text;
+}
+
+/* BMI STYLE */
+input.input-text2 {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+input.check-button {
+    border-radius: 5px;
+    padding: 5px 30px;
+    background-color: orangered;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+input.check-button:hover {
+    border-radius: 5px;
+    padding: 5px 30px 5px 30px;
+    background-color: rgb(102, 16, 184);
+    background-color: rgb(102, 16, 184);
+    color: #fff;
+    cursor: pointer;
+}
+
+.intro {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+    margin-bottom: 20px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    font-size: small;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tugas Mandiri</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+</head>
+<body>
+    <!-- BMI Start -->
+    <div>
+        <p class="title">BMI Checker<br /><span class="subtitle">GatraSatya</span></p>
+        <div class="intro">
+            Aplikasi ini dapat digunakan untuk mengecek apakah berat badan kalian<br />
+            sudah ideal atau belum, bisa diguunakan untuk laki-laki maupun perempuan.<br />
+            <ul>
+                <li>Berat Badan Satuan (Kg) -> contoh: 75</li>
+                <li>Tinggi Badan Satuan (m) -> contoh: 1.8</li>
+            </ul>
+        </div>
+        <form>
+            <tr>
+                <td>
+                    <input id="bbindex" type="text" placeholder="Berat Badan" class="input-text2" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="tbindex" type="text" placeholder="Tinggi Badan" class="input-text2" /><br />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="Cek" onclick="check()" class="check-button" />
+                </td>
+            </tr>
+        </form>
+        <br />
+        <p id="result2" style="font-weight: bold;"></p>
+    </div>
+    <!-- BMI End -->
+</body>
+</html>
