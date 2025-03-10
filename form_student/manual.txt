@@ -1,0 +1,4 @@
+- Use NetBeans 8.2 with JDK version 8.
+- Instal web server XAMPP to connect to database.
+- Import project use name of folder "formSiswa" to NetBeans.
+- Built JAR file go to folder dist/formSiswa.jar then execute.
