@@ -8,7 +8,7 @@ Semua proyek koding buatan saya yang bersumber dari sekolah dan kode programnya 
 ## bmi_calculator_cs
 
 Program sederhana untuk menghitung berat bada ideal (Body Mass Index).  
-Pengguna dapat menngetahui kategori berat badan berdasarkan input berat badan dan tinggi badan.
+Pengguna dapat mengetahui kategori berat badan berdasarkan input berat badan dan tinggi badan.
 
 #### Detail Proyek:
 - **Nama**: Kalkulator BMI
@@ -109,6 +109,30 @@ Pengguna dapat mengetahui nilai angka yang telah dihitung faktorial.
 #### Panduan Proyek:
 - Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
 - Masukkan bilangan yang akan dihitung faktorial.
+
+
+## form_student
+
+Proyek CRUD sederhana mennggunakan Java NetBeans untuk menginput data nama dan alamat siswa.  
+Pengguna dapat memasukkan data, menghapus data, dan memperbarui data.
+
+#### Detail Proyek:
+- **Nama**: Form Siswa
+- **Sintaks**: Java
+- **Database**: MySQL
+- **Dibuat pada**: 21 Mei 2024
+- **Selesai pada**: 29 Mei 2024
+
+#### Panduan Proyek:
+- Download source code, lalu open di NetBeans IDE.
+- Setup koneksi dengan menyalakan web server (XAMPP/WAMP/Laragon/dll).
+- Setup database dengan memasukkan kode program SQL ke phpMyAdmin.
+- Baca file manual.txt dalam folder proyek untuk instruksi lebih lanjut.
+- **INSERT**: Memasukkan data siswa ke dalam tabel.
+- **UPDATE**: Mengubah data siswa pada tabel.
+- **DELETE**: Menghapus data siswa dari dalam tabel.
+- **RESET**: Menghapus kolom input.
+- **EXIT**: Keluar dari program.
 
 
 ## ftc_converter
