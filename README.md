@@ -1,6 +1,6 @@
 # School Projects
 
-Semua proyek kodding sekolah saya telah ditest dan bekerja dengan baik. :>
+Semua proyek koding sekolah milik saya telah ditest dan bekerja dengan baik. :>
 - Email: anezacode@proton.me
 - Website: gatra.rf.gd
 
