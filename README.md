@@ -357,8 +357,8 @@ Program sederhana untuk mengkonversi suhu ke satuan suhu lainnya.
 - **Nama**: Program Sederhana Konversi Suhu
 - **Sintaks**: C++
 - **Database**: -
-- **Dibuat pada**: 7 Nov 2023 08:13
-- **Selesai pada**: 7 Nov 2023 08:39
+- **Dibuat pada**: 7 Nov 2023
+- **Selesai pada**: 7 Nov 2023
 
 #### Panduan Proyek:
 - Download program, lalu open menggunakan Dev C++ atau text editor yang mendukung bahasa C++.
