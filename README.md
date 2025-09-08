@@ -374,7 +374,7 @@ Proyek testing API Laravel menggunakan Postman dengan fetch data CRUD.
 - **Sintaks**: PHP (Laravel)
 - **Database**: MySQL
 - **Dibuat pada**: 12 Jan 2025
-- **Selesai pada**: 13 Jan 2025
+- **Selesai pada**: 12 Jan 2025
 
 #### Panduan Proyek:
 - Download source code, setup koneksi database, lalu jalankan menggunakan tools web server.
@@ -389,8 +389,8 @@ Program kalkulator sederhana yang dibuat menggunakan pemrograman Visual Basic da
 - **Nama**: Kalkulator VBA
 - **Sintaks**: Visual Basic (Microsoft Excel)
 - **Database**: -
-- **Dibuat pada**: 23 Agu 2023 07:45
-- **Selesai pada**: 23 Agu 2023 08:18
+- **Dibuat pada**: 23 Agu 2023
+- **Selesai pada**: 23 Agu 2023
 
 #### Panduan Proyek:
 - Download program, lalu tekan tombol macro untuk membuka kalkulator.
