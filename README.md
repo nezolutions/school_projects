@@ -2,7 +2,7 @@
 
 Semua proyek koding sekolah milik saya telah ditest dan bekerja dengan baik. :>
 - Email: anezacode@proton.me
-- Website: gatra.rf.gd
+- Website: http://gatra.rf.gd
 
 
 
